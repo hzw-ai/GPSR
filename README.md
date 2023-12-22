@@ -1,5 +1,5 @@
 ## GPSR
-Code of our paper "[GPR: Graph Prompt for Session-Based Recommendation]"
+Code of our paper "[GPSR: Graph Prompt for Session-Based Recommendation]"
 
 ## Requirements
 * Python==3.8.18
